@@ -1,2 +1,2 @@
 # TP_Tkinter
-TP calculator
+This file contain code source for a calculator in Python tkinter
